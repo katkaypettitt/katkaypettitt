@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Katrina</h1>
-<h3 align="center">I'm an aspiring data scientist with a PhD in Classics and Ancient History</h3>
+<h1 align="center">Hello, World! I'm Katrina.</h1>
+<h3 align="center">I'm an aspiring data scientist and pythonista with a PhD in Classics and Ancient History</h3>
 
-- 🔭 I’m currently working on expanding **my data science skillset**
+- 🔭 I’m currently working on expanding **my data science and Python skillsets**
 
 - 🌱 I’m participating in **100 Days of Code with @pybites**
 
