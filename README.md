@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Katrina!</h1>
+<h1 align="center">Hi 👋, I'm Katrina</h1>
 <h3 align="center">I'm an aspiring data scientist with a PhD in Classics and Ancient History</h3>
 
 - 🔭 I’m currently working on expanding **my data science skillset**
 
-- 🌱 I’m also participating in **100 Days of Code with @pybites**
+- 🌱 I’m participating in **100 Days of Code with @pybites**
 
-- 🤝 I’m very open to collaborating on projects related to the **arts, history, linguistics, or archaeology**
+- 🤝 I’d love to collaborate on projects related to the **arts, history, linguistics, or archaeology**
 
 - 📫 Reach me via **katrinakay.alaimo@gmail.com**
 
