@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on expanding **my data science skillset**
 
-- 🌱 I’m also participating in **100 Days of Code with @pybit.es**
+- 🌱 I’m also participating in **100 Days of Code with @pybites**
 
 - 🤝 I’m very open to collaborating on projects related to the **arts, history, linguistics, or archaeology**
 
