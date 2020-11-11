@@ -1,15 +1,15 @@
 <h1 align="center">Hello, World! I'm Katrina.</h1>
 <h3 align="center">I'm an aspiring data scientist and pythonista with a PhD in Classics and Ancient History</h3>
 
-- 🔭 I’m currently working on expanding **my data science and Python skillsets**
+- 🔭 I’m expanding my **data science and Python skillsets**
 
-- 🌱 I’m participating in **100 Days of Code with [@pybites](https://github.com/pybites)**
+- 🌱 I’m working on a **data science certification** with Coursera
 
 - 🤝 I’d love to collaborate on projects related to the **arts, history, linguistics, or archaeology**
 
 - 📫 Reach me via **katrinakay.alaimo@gmail.com**
 
-- ⚡ Fun fact: **I'm a language enthusiast and figure skater**
+- ⚡ Fun fact: I'm a **language enthusiast, figure skater, and #100DaysofCode survivor**
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
