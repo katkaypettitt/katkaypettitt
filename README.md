@@ -3,13 +3,18 @@
 
 - 🔭 I’m expanding my **data science and Python skillsets**
 
-- 🌱 I’m working on a **data science certification** with Coursera
+- 🌱 I’m working on **practically applying** my data science skills.
 
 - 🤝 I’d love to collaborate on projects related to the **arts, history, linguistics, or archaeology**
+
+- 🥳 Recent achievements: I completed the **'Statistics with Python'** and **'Applied Data Science with Python'** specializations with the University of Michigan and Coursera.
 
 - 📫 Reach me via **katrinakay.alaimo@gmail.com**
 
 - ⚡ Fun fact: I'm a **language enthusiast, figure skater, and #100DaysofCode survivor**
+
+
+#### I have more portfolio items available through private repos. Please contact me if interested in seeing them. 
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
