@@ -3,9 +3,9 @@
 
 - 🔭 I’m expanding my **data science and coding** capabilities
 
-- 🌱 I’m working on **practically applying** my skills
+- 🌱 I'm **always learning** languages whether they be ancient, modern, or programming. 
 
-- 🤝 I’d love to collaborate on projects related to the **arts, history, linguistics, or archaeology**
+- 🤝 I’d love to collaborate on projects, especially if related to the **arts, history, linguistics, or archaeology**
 
 - 📫 Reach me via **katrinakay.alaimo@gmail.com**
 
