@@ -3,15 +3,14 @@
 
 
 
-- 🔭 Looking for opportunities to dive into the world of tech
+- 🔭 I'm currently working on a wedding website template using Django 
 
-- 🌱 I'm **always learning** new skills
+- 🌱 I'm currently learning JavaScript
 
-- 🐍 Favourite language: **Python**
+- 🐍 Favourite language: Python
 
-- 🤝 Open to collaborations and new connections
+- 💪 100 Days of Code survivor
 
-- 📫 Reach me via **katrinakay.alaimo@gmail.com**
+- 📫 How to reach me: katrinakay.alaimo@gmail.com or [@katrinaalaimo](https://twitter.com/KatrinaAlaimo)
 
-- ⚡ Fun fact: I'm a **polyglot**, **figure skater**, and **#100DaysofCode survivor**
-
+- ⚡ Fun fact: I'm a polyglot & figure skater
